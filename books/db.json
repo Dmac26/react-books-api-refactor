@@ -1,12 +1,16 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
-      "id": 1
+      "title": "Lord of the Flies",
+      "id": 3
     },
     {
-      "title": "Bros and Stuff",
-      "id": 2
+      "title": "Where the Wild Thing Grows",
+      "id": 4
+    },
+    {
+      "title": "All My Life",
+      "id": 5
     }
   ]
 }
